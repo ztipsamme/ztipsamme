@@ -34,7 +34,7 @@ Figma, Git, Agile (SCRUM), GraphQL
 
 ### 📫 Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/emmaspitz/)
+Send me a message on [LinkedIn](https://www.linkedin.com/in/emmaspitz/)
 
 ---
 
