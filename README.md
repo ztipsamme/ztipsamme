@@ -25,7 +25,7 @@ Figma, Git, Agile (SCRUM), GraphQL
 ### 🌟 What I'm up to
 
 - 🔭 Currently working on an updated version of my old school project **Rocketflow** — a to-do web app with Pomodoro and Kanban features.
-- 🌱 Deepening my fullstack skills — focusing on MongoDB, CI/CD workflows, and deployment.
+- 🌱 Deepening my fullstack skills — focusing on .Net Cloud deployment with C#.
 - 💬 Ask me about my internship at **Humblebee**, where we took the first steps toward building _Majblomman's_ new "My Pages" feature.
 
 ---
