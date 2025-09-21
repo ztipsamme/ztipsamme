@@ -1,8 +1,8 @@
 ## Hi, my name is Emma 👋
 
-💻 Frontend Developer | 🎨 CSS Enthusiast | 🌱 Currently learning Mongoose and MongoDB  
+💻 Frontend Developer | 🎨 CSS Enthusiast | 🌱 Currently learning C#  
 📍 Based in Greater Gothenburg Metropolitan Area, Sweden
-🎯 I'm actively looking for my first opportunity in IT. If I haven’t found the right role by fall, I plan to continue building my skills by studying .NET Cloud development.
+🎯 I'am actively seeking an internship for Fall 2026.
 
 ---
 
